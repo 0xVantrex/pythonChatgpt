@@ -20,5 +20,16 @@ print (f"{cars[0]} are manufactured in Berlin")
 
 #set datastrucutres
 majina={"callagan", "darius", "shamilla", "sharonne", "zipporah"}
+majina.add("keith")
 
+print(majina)
 
+#dictionries datastructures
+staff={
+    "Name":"callagan",
+    "age":32,
+    "gender":"male"
+}
+print(f"staff name is {staff['Name']} and staff age is {staff['age']}")
+
+#dict has 
