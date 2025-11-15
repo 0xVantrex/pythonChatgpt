@@ -32,4 +32,4 @@ staff={
 }
 print(f"staff name is {staff['Name']} and staff age is {staff['age']}")
 
-#dict has 
+#dict has  
